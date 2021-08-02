@@ -1,0 +1,4 @@
+databases[postgresql]==0.4.3
+ormar==0.10.15
+psycopg2-binary
+pydantic==1.8.2
